@@ -2,7 +2,7 @@ import 'global-jsdom/register'
 
 import { render, screen } from '@testing-library/react'
 import React from 'react'
-import viewflow from '.'
+import viewflow from '../src'
 
 import { test } from 'uvu'
 import * as assert from 'uvu/assert'
