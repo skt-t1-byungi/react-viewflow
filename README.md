@@ -2,7 +2,7 @@
 
 > Work in progress
 
-A robust React component library for effortlessly managing complex view flows.
+A React component library for managing complex view flows
 
 ## Example
 
